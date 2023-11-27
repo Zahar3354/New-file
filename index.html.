@@ -1,1 +1,29 @@
-
+<html>
+<title> Ice-cream </title>
+<body style="background: #696969; font-family:sans-serif ">
+ <header > 
+     <h1 style=" background: black" >   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAUYrPzD9MEzmWSMSZhXeYGBYQZx1yXyec0KMgQLInMhmcWVnAZC8QumH1G4nZ6UXZSnk&usqp=CAU" height="100px"/> <a  style="font-size:13px" href="https://pustunchik.ua/ua/online-school/inventions/svit-moroznoi-smakoti-naytsikav%C3%ADshi-fakti-pro-morozivo" > цікава інформація</a>    </h1>
+ <h2 style="text-align:center;font-size:50px"> <a style=" color:black " href="https://uk.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%B8%D0%B2%D0%BE" > Морозиво  </a>  </h2>
+     <h3 style="text-align:center; font-size :40px  " > Цікава інформація</h3>
+ </header>
+ <main>
+     <p style="font-size:20px; font-family:amaze" >   У 13 столітті італійський мандрівник Марко Поло привіз у Європу кілька способів приготування невідомої доти страви.</p> 
+     <p style="font-size:20px; font-family:amaze"> Влітку 1660 італієць Франческо Прокопіо відкрив у Парижі продаж морозива і став першим європейським морозивником. Незабаром морозиво підкорило увесь світ.</p>
+   <p >  <img   src="https://th.bing.com/th/id/OIP.bRdrg25zn6MJX_ToqAOSCQHaE3?w=768&h=505&rs=1&pid=ImgDetMain" height="240px" />   
+   <img src="https://th.bing.com/th/id/OIP.CEhydKecf_jpRoiKLQWTowHaEt?w=1200&h=763&rs=1&pid=ImgDetMain" height="240px"/>
+   </p>
+ </main>
+ <footer>
+     <table style="border:2px solid blue ;border-collapse:collapse;font-size:20px "  >
+         <tr>
+             <td>Адреса</td>
+             <td>43463, Луганська область, місто Луганськ, просп. І. Франкa, 40</td>
+         </tr>
+         <tr>
+            <td>За питаннями</td>
+            <td >+376 (375) 488-90-75</td>
+            </tr>
+     </table>
+ </footer>
+</body>
+     </html>
